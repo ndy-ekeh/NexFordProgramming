@@ -36,8 +36,6 @@ def generatePaymentSlips(workersarray):
             print(f"Salary: ${worker['salary']}")
             print(f"Employee Level: {level}")
             print("="*40)
-        except KeyError as ke:
-            print(f"Missing key: {ke}")
         except Exception as e:
             print(f"Error processing worker: {e}")
 
