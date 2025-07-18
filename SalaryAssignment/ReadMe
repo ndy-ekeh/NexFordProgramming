@@ -1,0 +1,15 @@
+# Staff Salary Payment Data Processing
+
+## Overview
+The project proceess salary payment both in Python and R using Jupyterlab note book
+
+## How to Use
+
+ **Steps:**
+   - Import salary data (`Total.csv`).
+   - Fetch employee details using `get_employeeInfo()`.
+   - Export employee profile to CSV and ZIP using `exportemployeeDetails()`.
+   - Unzip the `Staff_Data.zip`.
+   
+
+
