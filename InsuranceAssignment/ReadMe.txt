@@ -13,3 +13,8 @@ This project create a simple Insurance Policy Management System with the followi
 
 bash
 python mainService.py
+
+# GitHub URL: https://github.com/ndy-ekeh/NexFordProgramming.git
+# branch : main
+# Project folder: InsuranceAssignment
+
