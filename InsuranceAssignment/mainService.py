@@ -14,7 +14,7 @@ ph2 = policyHolder(102, "Esther Adewale", "estherAdewale@gmail.com")
 ph1.createproduct(product1)
 ph2.createproduct(product2)
 
-# Process payments
+# Process payments 
 payment1 = Payments(ph1, product1.price)
 payment1.processPayment()
 
